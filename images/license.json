@@ -1,4 +1,12 @@
 {
+  "KantumruyProKhmer.woff2": {
+    "text": [
+      "Copyright 2022 The Kantumruy Pro Project Authors"
+    ],
+    "projectURL": "https://github.com/googlefonts/kantumruy",
+    "license": "SIL Open Font License, Version 1.1",
+    "notes": "Kantumruy Pro Khmer font subset from Google Fonts"
+  },
   "coinInHand.png": {
     "text": [
       "Copyright 2019 University of Colorado Boulder"
